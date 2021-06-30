@@ -9,7 +9,7 @@ metadata:
   name: ccop-ab-demo
   namespace: abdemo
 spec:
-  replicas: 2
+  replicas: 3
   selector:
     matchLabels:
       app: ccop-ab-demo
